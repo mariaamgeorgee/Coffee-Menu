@@ -26,13 +26,13 @@ class _HomeScreenState extends State<HomeScreen> {
       name: 'Latte',
       description: 'Coffee with milk.',
       price: 3.5,
-      image: 'assets/images/latte.png',
+      image: 'assets/images/Latte.png',
     ),
      
       Coffee(
     name: 'Milkshake',
     description: 'Cold and creamy milkshake.',
-    price: 4.0,
+    price: 5.0,
     image: 'assets/images/milkshake.png',
   ),
   Coffee(
@@ -44,13 +44,13 @@ class _HomeScreenState extends State<HomeScreen> {
   Coffee(
     name: 'Hot Chocolate',
     description: 'Rich and warm chocolate drink.',
-    price: 3.5,
+    price: 5.5,
     image: 'assets/images/Hot Chocolate.png',
   ),
   Coffee(
     name: 'Spanish Latte',
     description: 'Sweet latte with a touch of condensed milk.',
-    price: 4.0,
+    price: 6.0,
     image: 'assets/images/Spanish Latte.png',
   ),
   Coffee(
