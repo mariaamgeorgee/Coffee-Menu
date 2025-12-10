@@ -1,16 +1,22 @@
-# flutterr
+# Coffee Menu App
 
-A new Flutter project.
+This Flutter application allows users to:
 
-## Getting Started
+- Browse a menu of items.
+- Select quantities for each item.
+- See the total cost updated in real-time.
+- Tap on any item to navigate to a detail page with a description.
 
-This project is a starting point for a Flutter application.
+## Technologies
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Interactive UI with navigation between pages.
+- Quantity selection and total calculation.
+- Clean and simple design for easy use.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Layout
+- **Main Menu Page:** Displays all items with images and prices, allows quantity selection.  
+- **Detail Page:** Shows detailed description of the selected item.  
+- **Total Display:** Updates automatically as user changes quantities.  
